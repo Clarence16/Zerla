@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zerla/static/css/main.abd64e84.css",
+    "main.js": "/zerla/static/js/main.3e901f2e.js",
+    "index.html": "/zerla/index.html",
+    "main.abd64e84.css.map": "/zerla/static/css/main.abd64e84.css.map",
+    "main.3e901f2e.js.map": "/zerla/static/js/main.3e901f2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.3e901f2e.js"
+  ]
+}
