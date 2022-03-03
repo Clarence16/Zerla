@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-  border: 5px solid whitesmoke;
+  /* border: 5px solid whitesmoke; */
   background-color:brown;
   display: flex;
   width: 100%;
