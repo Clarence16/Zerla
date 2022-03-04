@@ -1,7 +1,7 @@
 /* Add a black background color to the top navigation */
 .topnav {
   /* border: 5px solid whitesmoke; */
-  background-color:brown;
+  /* background-color:brown; */
   display: flex;
   width: 100%;
   height: 5%;
@@ -9,7 +9,7 @@
   margin: 0;
 }
 .nav-items {
-  color: whitesmoke;
+  /* color: whitesmoke; */
   margin: 10px;
 }
 .nav-search{
@@ -17,6 +17,7 @@
 }
 
 .nav-title {
+  /* color: black; */
   margin-left: auto;
   font-size: x-large;
 }
